@@ -1,0 +1,18 @@
+{
+  "backend": [
+    "Aprender Docker para containerização",
+    "Estudar testes automatizados (JUnit, Jest)",
+    "Aprender CI/CD (GitHub Actions)",
+    "Conhecer APIs REST e autenticação"
+  ],
+  "frontend": [
+    "Aprender TypeScript",
+    "Melhorar performance com lazy loading",
+    "Estudar testes com React Testing Library"
+  ],
+  "devops": [
+    "Docker e containers",
+    "CI/CD pipelines",
+    "Cloud (AWS, Azure ou GCP)"
+  ]
+}
